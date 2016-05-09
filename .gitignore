@@ -2,3 +2,6 @@
 /packages
 /NI.Data.Extensions.ORM/obj
 /NI.Data.Extensions.ORM/bin
+/NI.Data.Extensions.ORM/NI.Data.Extensions.ORM.1.0.0.0.nupkg
+/NI.Data.Extensions.ORM/NI.Data.Extensions.ORM.nuspec
+/NI.Data.Extensions.ORM/NuGet.exe

@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NI.Data.Dalc.Extensions.ORM")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("NI.Data.Extensions.ORM")]
+[assembly: AssemblyDescription("A tiny helper-wrapper for ORM-style usage of NI.Data.DataRowDalcMapper")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Anton Shabinskiy")]
 [assembly: AssemblyProduct("NI.Data.Dalc.Extensions.ORM")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCopyright("Anton Shabinskiy © 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
